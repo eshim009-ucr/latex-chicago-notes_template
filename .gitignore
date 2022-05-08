@@ -1,0 +1,18 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+
+# BibTeX build files
+*.bbl
+*.blg
+
+# BibLaTeX build files
+*.bcf
+*.run.xml
+
+# Backup files
+*.bak
+
+# Output files
+*.pdf
